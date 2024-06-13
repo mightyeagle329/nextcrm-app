@@ -70,17 +70,6 @@ You can try it here [demo.nextcrm.io](https://demo.nextcrm.io), login via Google
 
 ![hero](/public/og.png)
 
-## Roadmap
-
-1. More AI powered - daily summary of tasks and project (OpenAI integration) - in progress
-2. Email campaigns management - integration with MailChimp and Listmonk - in planning
-3. ~~Docker version - in planning (There will be complete bundle to run NextCRM on-premise)~~
-4. Testing - Jest + Cypress (if anyone want to help I will be very happy) - in planning
-5. Fix all Types issue (no more "any") - in progress
-6. i18n - localization - in progress (if anyone want to help I will be very happy)
-7. Turborepo - in planning
-8. ~~Upgrade to Next.js 14 - in planning~~
-9. Email client - in planning
 
 ## Emails
 
@@ -96,10 +85,6 @@ We use Tremor charts as a tool for creating charts in NextCRM
 
 [Youtube Channel](https://www.youtube.com/@NextCRM_IO) </br>
 [Invoice module (video)](https://youtu.be/NSMsBMy07Pg)
-
-## Documentation
-
-Available soon at: http://docs.nextcrm.io
 
 ## Installation
 
