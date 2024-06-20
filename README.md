@@ -93,7 +93,7 @@ We use Tremor charts as a tool for creating charts in NextCRM
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/pdovhomilja/nextcrm-app.git
+   git clone https://github.com/mightyeagle329/nextcrm-app.git
    cd nextcrm-app
    ```
 
